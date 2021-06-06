@@ -12,3 +12,6 @@ There might be some bugs lurking around so have fun :D
 P.S: Also didn't added loading bars while fetching the data and the Sign Up screen don't have empty field checks but the new user created has null data anyway so didn't focused on that much.
 
 Cheers!
+
+
+https://user-images.githubusercontent.com/47972903/120924014-077a4580-c6eb-11eb-87b4-85dbdfe92d35.mp4
